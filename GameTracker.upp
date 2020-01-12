@@ -1,0 +1,13 @@
+description "GameTracker application\377";
+
+uses
+	CtrlLib;
+
+file
+	GameTracker.h,
+	main.cpp,
+	GameTracker.lay;
+
+mainconfig
+	"" = "GUI";
+
